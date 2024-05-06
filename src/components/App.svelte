@@ -26,16 +26,16 @@
   <div class="cover-container">
     <div class="cover-image cover-image-1">
       <img src="assets/capa_imgs/capa_1.png" alt="Image 1" />
-      <div class="cover-text cover-text-1">O que seria</div>
+      <div class="cover-text cover-text-1">What would</div>
     </div>
     <div class="cover-image cover-image-2">
       <img src="assets/capa_imgs/capa_2.png" alt="Image 2" />
-      <div class="cover-text cover-text-2">do Rio sem</div>
-      <div class="cover-text cover-text-2-mobile">O que seria do <br>Rio sem as<br> Olimpiadas?</div>
+      <div class="cover-text cover-text-2">Rio de Janeiro be</div>
+      <div class="cover-text cover-text-2-mobile">What would <br>Rio de Janeiro be<br> without the Olympics??</div>
     </div>
     <div class="cover-image cover-image-3">
       <img src="assets/capa_imgs/capa_3.png" alt="Image 3" />
-      <div class="cover-text cover-text-3">as Olimpíadas?</div>
+      <div class="cover-text cover-text-3">without the Olympics?</div>
     </div>
   </div>
   <div class="arrowDown">

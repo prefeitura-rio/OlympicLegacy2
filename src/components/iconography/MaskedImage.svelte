@@ -23,7 +23,7 @@
 >
   <g mask={`url(#mask-${name})`}>
     <image
-      href={`${dev ? "/" : "/OlympicLegacy/"}assets/img/${imgPath}`}
+      href={`${dev ? "/" : "/OlympicLegacy2/"}assets/img/${imgPath}`}
       x="0"
       y="0"
       height="100%"
@@ -33,7 +33,7 @@
   </g>
   <image
   style="z-index: 1000;"
-   href={`${dev ? "/" : "/OlympicLegacy/"}assets/img/${imgPath=="geral_01.png"?"north_01.png":(imgPath=="geral_02.png"?"north_02.png":"north_03.png")}`} 
+   href={`${dev ? "/" : "/OlympicLegacy2/"}assets/img/${imgPath=="geral_01.png"?"north_01.png":(imgPath=="geral_02.png"?"north_02.png":"north_03.png")}`} 
    x="200"
    y="200"
    height="10%" 
