@@ -1,0 +1,32 @@
+{
+   "style_name": "sprite",
+   "images": [
+      "aterro_gramacho.png",
+      "bacia_jacarepagua.png",
+      "boulevard_olímpico.png",
+      "campo_de_golfe.png",
+      "combate_enchentes.png",
+      "ctr_seropedica.png",
+      "derrubada_da_perimetral.png",
+      "duplicação_do_joá.png",
+      "edifício_a_noite.png",
+      "entorno_do_engenhão.png",
+      "marina_da_glória.png",
+      "novos_túneis.png",
+      "parque_madureira.png",
+      "pequena_áfrica.png",
+      "piscinões.png",
+      "rede_hoteleira.png",
+      "sambódromo.png",
+      "saneamento_zona_oeste.png"
+   ],
+   "orientation": "vertical",
+   "padding": 5,
+   "custom_styles": {
+      "display": "inline-block"
+   },
+   "stylesheet": "css",
+   "path_prefix": "",
+   "output": "png",
+   "enable_cache_busting": true
+}

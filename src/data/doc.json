@@ -1,0 +1,508 @@
+{
+  "title": "A Visual Guide to the Aztec Pantheon",
+  "introduction": [
+   "Você consegue imaginar o Rio de Janeiro sem os BRTs (Transoeste, Transcarioca e Transolímpica), o VLT, o Centro de Operações (COR), o Porto Maravilha, o Museu do Amanhã e o Museu de Arte do Rio? Pois saiba que, sem os Jogos Olímpicos e Paralímpicos de 2016, nada disso teria se tornado realidade.",
+  "A realização dos Jogos foi fundamental para viabilizar diversos equipamentos urbanos que hoje impactam positivamente a vida dos cariocas, muitos dos quais talvez nunca sairiam do papel sem o impulso proporcionado pelo evento.",
+  "Desde o início do projeto, a Prefeitura do Rio teve como objetivo garantir o máximo de legado para a cidade e seus moradores. A preparação para receber o evento foi utilizada para acelerar mudanças há muito esperadas, que trouxeram melhorias significativas na qualidade de vida dos cariocas.",
+   "As Olimpíadas e Paralimpíadas representaram um marco na história recente da cidade. Além de colocar o Rio sob os holofotes mundiais, os Jogos abriram caminho para transformações importantes na infraestrutura, serviços, transporte e educação.",
+   "Nesta reportagem especial, convidamos você a revisitar ou conhecer o legado olímpico que transformou — e continua transformando — o nosso Rio de Janeiro."
+  ],
+  "introductionone": [
+    "Além de planejar e construir equipamentos que garantissem a melhoria da qualidade de vida dos cariocas, o projeto olímpico do Rio adotou a arquitetura nômade em várias arenas, de modo que, passados os Jogos, tivessem novos usos para a população.",
+    "Este conceito de construção prevê o reaproveitamento das instalações esportivas para transformá-las em novos equipamentos públicos, inclusive em outras áreas da cidade. É o caso, por exemlo, da Arena do Futuro, que foi palco do handebol olímpico e do golbol paralímpico. Após o término das competições, sua estrutura foi utilizada para a construção de quatro escolas no modelo GET (Ginásio Educacional Tecnológico), com capacidade para atender 1.700 alunos.",
+    "Todas as quatro unidades estão localizadas na Zona Oeste da cidade (Santa Cruz, Bangu, Campo Grande e Rio das Pedras), onde outros importantes equipamentos foram construídos e estão hoje como legado olímpico."   ],
+  "introductiontwo": [
+    "Além dos equipamentos mencionados anteriormente, compõem o legado muitos outros projetos que não têm relação direta com o evento esportivo, mas aproveitaram a oportunidade olímpica para serem transformados em realidade. Eram obras de infraestrutura, principalmente de mobilidade e urbanização, que foram viabilizadas ou aceleradas devido ao Rio ter se tornado cidade-sede dos Jogos.",
+    "Uma das transformações mais significativas refere-se à expansão da rede de transporte de alta capacidade. Os esforços da Prefeitura do Rio tinham como objetivo criar um novo modelo de mobilidade urbana no qual a cidade estivesse completamente interligada, facilitando e agilizando os deslocamentos e quebrando antigas fronteiras geográficas e sociais.",
+    "Para isso, foram feitos investimentos em projetos como os BRTs Transoeste, Transcarioca e Transolímpica, o VLT e mais recentemente o Terminal Gentileza - obras que fizeram o transporte avançar na cidade, encurtando distâncias e melhorando a qualidade de vida de centenas de milhares de cariocas, principalmente nas zonas Norte e Oeste. ",
+    "A seguir, você conhecerá um pouco mais sobre os projetos de mobilidade do Legado Olímpico que agilizaram e facilitaram a forma como os cariocas se deslocam pelo Rio."
+   ],
+  "introductionthree": [
+    "Na próxima fase do compromisso contínuo da Prefeitura do Rio de Janeiro em preservar e relembrar o legado olímpico, serão instalados totens, placas e selos em diversos espaços e edifícios da cidade.",
+    "Ao identificar e celebrar os locais que foram transformados ou beneficiados pelos Jogos, estamos fortalecendo o senso de comunidade e pertencimento, ao mesmo tempo em que promovemos o turismo e a conscientização sobre a <b>importância do evento para o nosso presente e futuro.</b>"
+   ],
+  "introductionfour": [
+    "Explore alguns dos equipamentos e obras feitas em razão dos Jogos Olímpicos e Paralímpicos na cidade do Rio na ferramenta abaixo:"
+   ],
+  "iconography_title": "",
+  "iconography_intro": "",
+  "iconography_imaginarygods": "",
+  "library_death_subtitle": "Imaginary God of <strong>Death</strong>",
+  "library_fertility_subtitle": "Imaginary God of <strong>Fertility</strong>",
+  "pantheon_title": "",
+  "pantheon_intro": "",
+  "pantheon_duality": "",
+  "iconography_tlalte": "Tlaltecuhtli",
+  "source_tlalte_label": "Colorized detail from a stone sculpture exhibited at the Templo Mayor museum",
+  "source_tlalte_url": "",
+  "tlalte-steps": [
+    {
+      "id": "mapa_01",
+      "title": "",
+      "text": "",
+      "background_text": "",
+      "description":"Este é o mapa do Legado Olímpico no Rio de Janeiro. Começaremos nosso passeio pela região central da cidade, berço histórico do Rio. Além de investimentos em conservação, toda essa área passou por um processo de renovação urbana, com a reviltalização do Porto e a recuperação do Centro."
+    },
+    {
+      "id": "centro_de_operacoes_rio",
+      "title": "COR",
+      "text": "cor",
+      "background_text": "reformas urbanas",
+      "description":"O Centro de Operações Rio (COR) foi o primeiro equipamento olímpico entregue pela Prefeitura do Rio aos cariocas. Inaugurado em dezembro de 2010, seu legado permanece atuante 24 horas por dia, sete dias por semana. Com a integração de 50 órgãos públicos e o uso de mais de 3.500 câmeras, o COR monitora o dia a dia do Rio de Janeiro em áreas essenciais para o funcionamento da cidade, como mobilidade urbana e meteorologia, sempre com o objetivo de antecipar soluções e minimizar o impacto de ocorrências."
+    },
+    {
+      "id": "praca_maua",
+      "title": "Praça Mauá (Porto Maravilha)",
+      "text": "praca_maua",
+      "background_text": "reformas urbanas",
+      "description":"Construída no início do século XX, a histórica Praça Mauá foi reinaugurada em setembro de 2015, após ser revitalizada no âmbito do projeto Porto Maravilha. Com áreas verdes, dois novos espaços culturais — MAR e Museu do Amanhã — e sem o Elevado da Perimteral que impedia a vista para a Baía de Guabanara, a praça se consolidou como ponto de encontro e integração social não apenas da cidade, mas de toda a Região Metropolitana. A nova Praça Mauá acabou se tornando um dos principais símbolos do Porto Maravilha, programa de requalificação urbana de uma área de 5 milhões de m2 que foi lançado em 2009, como parte da preparação do Rio para os Jogos de 2016, e segue transformando aquela região."
+    },
+    {
+      "id": "museu_do_amanhã",
+      "title": "Museu do Amanhã",
+      "text": "museu_do_amanhã",
+      "background_text": "lazer",
+      "description":"Ícone da região portuária da cidade, o Museu do Amanhã também é herança dos Jogos. Inaugurado em 2015, fez parte do projeto de revitalização urbana do Porto Maravilha. Com arquitetura futurista, é um museu de ciências interativo que usa a inovação para trazer reflexões sobre tecnologia, sustentabilidade e futuro."
+    },
+    {
+      "id": "museu_de_arte_do_rio",
+      "title": "Museu de Arte do Rio",
+      "text": "museu_de_arte_do_rio",
+      "background_text": "lazer",
+      "description":"Inaugurado em 2013, o Museu de Arte do Rio (MAR) é uma instituição cultural que preserva e promove a arte e a história da cidade. Vizinho ao Museu do Amanhã na Praça Mauá e também parte do projeto Porto Maravilha, o MAR é mais uma opção cultural que a cidade ganhou por causa dos Jogos e que atrai muitos moradores e turistas ."
+    }
+  ],
+  "iconography_tezca": "Tezcatlipoca",
+  "source_tezca_label": "Codex Borgia",
+  "source_tezca_url": "http://www.famsi.org/research/loubat/Borgia/page_21.jpg",
+  "tezca-steps": [
+    {
+      "id": "mapa_02",
+      "title": "",
+      "text": "",
+      "background_text": "",
+      "description":"Agora, vamos para a Zona Oeste da cidade, conhecer os GETs e outras obras que existem graças aos Jogos Olímpicos e Paralímpicos de 2016."
+    },
+    {
+      "id": "parque_rita_lee",
+      "title": "Parque Rita Lee",
+      "text": "parque_rita_lee",
+      "background_text": "lazer",
+      "description":"Antigo Boulevard Olímpico, que durante os Jogos conectava todas áreas do Parque Olímpico e por onde passaram atletas e torcedores, o Parque Rita Lee é um espaço público de 36 mil metros quadrados, com várias opções de esporte e lazer para a população.  É composto por um bosque com mais de 900 árvores e 16 mil arbustos, quadras esportivas, praças, skate park,  brinquedos infantis e aparelhos de ginástica. O novo parque, que homenageia a rainha do rock brasileiro, fica numa rota que interliga todo o Parque Olímpico, como as arenas, os terraços e o “Live Site”, esplanada destinada a eventos em frente à Lagoa de Jacarepaguá."
+    },
+    {
+      "id": "GEO_isabel_salgado",
+      "title": "GEO Isabel Salgado",
+      "text": "GEO_isabel_salgado",
+      "background_text": "educação",
+      "description":"O Rio de Janeiro entrou para história ao transformar pela primeira vez um estádio olímpico em escola pública. Localizada no Parque Olímpico, na Barra da Tijuca, a Arena Carioca 3 - que, em 2016, recebeu as competições de taekwondo e esgrima durante os Jogos Olímpicos e judô nos Paralímpicos - virou o maior colégio da rede municipal. O GEO (Ginásio Educacional Olímpico) Isabel Salgado foi batizado em homenagem a um dos maiores nomes do vôlei mundial e atleta olímpica. A escola atende cerca de mil alunos, do primeiro ao nono ano, em tempo integral, e é formada por 24 salas de aulas, sala multiuso, sala de apoio pedagógico, refeitório, cozinha, vestiários e banheiros. Além, claro, das instalações esportivas, com duas quadras e locais para a prática de judô, lutas, tênis de mesa e ginástica."
+    },
+    {
+      "id": "GET_emiliano_galdino",
+      "title": "GETs",
+      "text": "GET_emiliano_galdino",
+      "background_text": "educação",
+      "description":"O GET é o modelo de escola mais inovador do país, baseado no método STEAM (sigla em inglês para Ciência, Tecnologia, Engenharia, Artes e Matemática), que integra diferentes áreas do conhecimento, estimulando a criatividade, o pensamento crítico e a sensibilidade humana. Tudo isso em tempo integral. Entre os mais de 100 GETs que a Prefeitura do Rio já inaugurou, quatro deles são legados olímpicos. Um dos itens do Plano de Legado feito para os Jogos Rio 2016 previu justamente que a Arena do Futuro, ao término das competições, fosse desmontada e transformada em quatro escolas, com capacidade para 1.700 alunos.  <br><br> Todas as quatro unidades estão localizadas em bairros da Zona Oeste: GET Emiliano Galdino em Santa Cruz, GET José Mauro de Vasconcelos em Bangu, GET Nelcy Noronha em Campo Grande, e GET Mestre Diego Braga em Rio das Pedras."
+    },
+    {
+      "id": "parque",
+      "title": "Parque Radical de Deodoro",
+      "text": "parque",
+      "background_text": "lazer",
+      "description":"O Parque Radical de Deodoro — que fica localizado numa das áreas mais carentes da Zona Oeste, na divisa com a Baixada Fluminense — oferece atividades para os moradores da região. É a segunda maior área de lazer do Rio de Janeiro e tem várias opções para quem quer praticar esportes ou simplesmente curtir um dia de sol na piscina. Parte do antigo Complexo Esportivo de Deodoro, onde aconteceram competições de diferentes modalidades em 2016, inclusive as provas de Canoagem Slalom, é mais um equipamento que só existe graças à realização dos Jogos Olímipicos e Paralímpicos do Rio!"
+    }
+  ],
+  "tezca2-steps": [
+    {
+      "id": "mapa_03",
+      "title": "",
+      "text": "",
+      "background_text": "",
+      "description":""
+    },
+    {
+      "id": "sistema_brt",
+      "title": "sistema brt",
+      "text": "sistema_brt",
+      "background_text": "transporte",
+      "description":"Um dos projetos mais importantes e transformadores para a mobilidade na cidade, o Sistema BRT ( Bus Rapid Transit) começou a ser construído e implantado para os Jogos Rio 2016. Com corredores exclusivos e modernos ônibus articulados, proporcionou deslocamentos mais rápidos e eficientes para os cariocas, integrando as áreas mais afastadas e melhorando a qualidade de vida dos usuários, principalmente da população das zonas Norte e Oeste. Atualmente, o Rio conta com quatro corredores de BRT que somam 150 km: Transoeste (inaugurada em 2012), Transcarioca (2014), Transolímpica (2016) e Transbrasil (2024)."
+    },
+    {
+      "id": "transoeste",
+      "title": "transoeste",
+      "text": "transoeste",
+      "background_text": "transporte",
+      "description":"O primeiro BRT a ser entregue como um legado antecipado dos Jogos no Rio foi a Transoeste, em 2012, ligando a Barra da Tijuca a Campo Grande, Paciência e Santa Cruz. O corredor conta como o Túnel da Grota Funda, que foi o primeiro na cidade a cortar o Maciço da Pedra Branca, contribuindo para o fim do isolamento viário da Zona Oeste. A Transoeste proporcionou viagens mais rápidas e confortáveis para os cariocas dessa região, promovendo a integração urbana e facilitando o acesso a serviços e empregos."
+    },
+    {
+      "id": "transcarioca",
+      "title": "transcarioca",
+      "text": "transcarioca",
+      "background_text": "transporte",
+      "description":"Inaugurada em junho de 2014, antes do início da Copa do Mundo, a Transcarioca foi o segundo corredor de BRT a entrar em operação no Rio. Liga a Barra da Tijuca ao Aeroporto Tom Jobim, na Ilha do Governador, cruzando o adensado subúrbio carioca. O corredor passa por 27 bairros das zonas Norte e Oeste, incluindo quatro dos maiores conjuntos de favelas do Rio: Cidade de Deus e os Complexos do Alemão, da Penha e da Maré. A Transcarioca facilitou os deslocamentos dos moradores na região, encurtando distâncias e reduzindo o tempo de viagem. Além disso, estimulou o desenvolvimento econômico e social ao longo de seu trajeto."
+    },
+    {
+      "id": "transolimpica",
+      "title": "transolímpica",
+      "text": "transolimpica",
+      "background_text": "transporte",
+      "description":"Principal ligação entre o Parque Olímpico da Barra e o Complexo Esportivo de Deodoro durante os Jogos de 2016, a Transolímpica foi o terceiro corredor de BRT a ser inaugurado. Ao concetar o Recreio dos Bandeirantes e a Barra da Tijuca a Deodoro, proporcionou à população a interligação de bairros da Zona Oeste até a Avenida Brasil. Além das pistas exclusivas para os ônibus articulados, o projeto também criou via expressa para automóveis e abriu novos caminhos no Maciço da Pedra Branca, com a construção de dois túneis duplos."
+    },
+    {
+      "id": "sistema_vlt",
+      "title": "sistema vlt",
+      "text": "sistema_vlt",
+      "background_text": "transporte",
+      "description":"Na área de mobilidade, a região central do Rio ganhou, às vésperas dos Jogos Rio 2016, o Veículo Leve sobre Trilhos (VLT). O sistema de bondes elétricos se integra a todos os meios de transporte do Centro e da Zona Portuária: barcas, metrô, trem, ônibus, Rodoviária Novo Rio, Aeroporto Santos Dumont, teleférico da Providência, terminal de cruzeiros marítimos e, mais recentemento, o Terminal Gentileza e o BRT Transbrasil. Atualmente, existem quatro linhas de VLT em operação, que somam 29 paradas e estações."
+    },
+    {
+      "id": "terminal_gentileza",
+      "title": "Terminal Intermodal Gentileza",
+      "text": "terminal_intermodal_gentileza",
+      "background_text": "transporte",
+      "description": "Inaugurado em 2024, oito anos depois dos Jogos, o Terminal Intermodal Gentileza (TIG), o mais moderno hub de integração de transportes do país, é também um legado olímpico. Dentro do conceito da arquitetura nômade, ele foi construído a partir das estruturas metálicas do IBC, o Centro Internacional de Transmissão que ficava no Parque Olímpico e foi responsável por gerar e distribuir as imagens dos Jogos para todo o mundo. Localizado em frente à Rodoviária Novo Rio, o TIG conecta os serviços do BRT Transbrasil,  duas linhas do VLT e  14 linhas de ônibus municipais regulares, além de um serviço expresso para o Aeroporto Internacional Tom Jobim. O Terminal Gentileza integra, portanto, alguns modais que fazem parte do novo sistema de transporte da cidade que começou a ser implementado por causa dos Olimpíadas, como o BRT e o VLT. Além disso, está localizado na região do Porto Maravilha, mais um símbolo de transformação dos Jogos Rio 2016."
+    }
+  ],
+  "pantheon": [
+       {
+      "id": "allLinks",
+      "title": "",
+      "type": "explanatory-mode",
+      "layout": "allLinks",
+      "selected": "Sistema BRT",
+      "keyword": "educacao",
+      "text": "<em>Death</em> groups all the gods related to destructive forces, whether they come from nature or humankind, like the underworld, war or natural disasters."
+    },
+    {
+      "id": "allLinks",
+      "title": "",
+      "type": "explanatory-mode",
+      "layout": "allLinks",
+      "selected": "",
+      "keyword": "transporte",
+      "text": "<em>Life</em>, like death, combines both renewal of nature and the continuation of the human species and, thus, includes fertility, birth, food or even cosmic creation."
+    },
+    {
+      "id": "allLinks",
+      "title": "",
+      "type": "explanatory-mode",
+      "layout": "allLinks",
+      "selected": "",
+      "keyword": "reformas urbanas",
+      "text": "<em>Spiritual</em> can be gods related to human intellectual interests, like art, lust and excess, or gods related to metaphysical interests, like the mysteries of nature, its creation and its purpose."
+    },
+    {
+      "id": "allLinks",
+      "title": "",
+      "type": "explanatory-mode",
+      "layout": "allLinks",
+      "selected": "",
+      "keyword": "lazer",
+      "text": "<em>Material</em> deities offer protection to the activities that ensure the survival of Aztec civilization, from trading and craft to war or food."
+    },
+    {
+      "id": "allLinks",
+      "title": "",
+      "type": "explanatory-mode",
+      "layout": "allLinks",
+      "selected": "",
+      "keyword": "",
+      "text": "But, as we’ve seen with Tlaltecuhtli and Tezcatlipoca, Aztec Gods rarely fit into a single category, and most are both creative and destructive, spiritual and material, especially the 13 <span class=major-god>major Gods</span>."
+    },
+    {
+      "id": "aspect",
+      "title": "",
+      "type": "explanatory-mode",
+      "layout": "aspect",
+      "selected": "",
+      "keyword": "",
+      "text": "Explore each illustration to see if you can spot the attributes that align with the Gods’ domains. Be sure to seek out the 13 <span class=major-god>major Gods</span>, where you can also learn about Aztec society’s lasting legacy, from modern election practices in the south of Mexico to the foods eaten around the world."
+    },
+    {
+      "id": "aspect",
+      "title": "",
+      "type": "exploratory-mode",
+      "layout": "aspect",
+      "selected": "Ometeotl",
+      "keyword": "",
+      "text": "You can start exploring with Ometeotl, a major figure often deemed as the primordial God, as he is the cosmic energy that gives life to everything."
+    }
+  ],
+  "main_gods": [
+    {
+      "id": "Ometeotl",
+      "type": "primordial",
+      "name": "Ometeotl",
+      "title": "The matrix of all things",
+      "minibio": "Androgynous entity, Ometeotl is responsible for the creation of the gods and the world, on the back of Cipactli, but stays distant from mankind.",
+      "illustration": "13-heavens",
+      "sources_group": [
+        {
+          "title": "Reshaping the world: debates on Mesoamerican cosmologies",
+          "author": "Ana Maria Diaz Alvarez",
+          "url": "https://www.worldcat.org/title/reshaping-the-world-debates-on-mesoamerican-cosmologies/oclc/1111651871"
+        },
+        {
+          "title": "Ometeotl and the Emergence of the Male-Female Polarity in Aztec Cosmogony",
+          "author": "Sylvie Peperstraete",
+          "url": "https://www.persee.fr/doc/asdi_1662-4653_2012_num_7_1_978"
+        },
+        {
+          "title": "Ometeotl, the God that Didn’t Exist",
+          "author": "",
+          "url": "http://www.calmecacanahuac.com/blog/uncategorized/ometeotl-the-god-that-didnt-exist/"
+        }
+      ],
+      "content": [
+        {
+          "subtitle": "Symbolism",
+          "subcontent": [
+            "The only symbol of truth and permanence for Aztecs is Ometeotl, the cosmic energy which gives life to everything, and structures it, like a fabric upon which gods and humans weave their history. Ometeotl doesn’t seem to be worshiped, besides mentions by some poets. However, they’re the core of the Aztec worldview. Like the cell’s mitosis, Ometeotl divides themself into Ometecuhtli (male) and Omecihuatl (female), then into the four creation gods. So every Aztec god is a specific disguise or embodiment of Ometeotl."
+          ]
+        },
+        {
+          "subtitle": "Legacy",
+          "subcontent": [
+            "This deity is still celebrated annually in Morelos at the Ometeotl festival, which showcases the diversity of Mexican culture. But Ometeotl’s legacy can also be seen in the rise of the philosophical notion of complexity and complex systems. The Aztec’s pantheon is indeed a perfect example of it, where all the parts interact with each other in various ways, culminating in a higher order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Huitzilopochtli",
+      "type": "creation",
+      "name": "Huitzilopochtli",
+      "title": "The emperor god",
+      "minibio": "God of war, thunderstorms, fire and sun. He’s the original deity of the nomadic tribe of Mexica, also known as Aztecs. He was a warrior who needed blood to win his battle against darkness.",
+      "illustration": "aztec-timeline",
+      "sources_group": [
+        {
+          "title": "Incarnations of the Aztec Supernatural: The Image of Huitzilopochtli in Mexico and Europe",
+          "author": "Elizabeth H. Boone",
+          "url": "https://www.jstor.org/stable/1006524"
+        },
+        {
+          "title": "Huitzilopochtli: The History of the Aztec God of War and Human Sacrifice",
+          "author": "Ernesto Novato",
+          "url": "https://www.goodreads.com/book/show/49472932-huitzilopochtli"
+        }
+      ],
+      "content": [
+        {
+          "subtitle": "Symbolism",
+          "subcontent": [
+            "Huitzilopochtli is the protector of Aztec people through their journey from the mythic city of Aztlan (potentially the north of Mexico) to Texcoco Lake, where they built Tenochtitlan. Struggling to feed the fifth sun (<em>Tonatiuh</em>) and thus allowing the whole world to exist, Aztecs helped him thanks to wars, conquests and captives. While their blood is spilled to the ground to feed the earth, their heart is offered to the sun. Once again, death brings life."
+          ]
+        },
+        {
+          "subtitle": "Legacy",
+          "subcontent": [
+            "The presence of Huitzilopochtli is still obvious today. Look no further than Mexico’s flag. At the center of it, an eagle eats a snake on a cactus. The same that Mexica saw upon their arrival at Texcoco. But, mainly, Huitzilopochtli's shadow still lies over the political landscape. The Empire his followers built (one which roughly restructured the countryside and created a sense of unity, despite the variety of local cultures) reshaped Mexican history well into the present."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Quetzalcoatl",
+      "type": "creation",
+      "name": "Quetzalcoatl",
+      "title": "The civilizing god",
+      "minibio": "One of the main divinities worshiped in Mesoamerica. He's the god of agriculture, arts, love science and wind. Exiled by his brother Tezcatlipoca, his expected return has been seen, at first, as the arrival of Hernan Cortez in 1519.",
+      "sources_group": [
+        {
+          "title": "Quetzalcoatl, in myth, archeology, and art",
+          "author": "Demetrio Sodi, José López Portillo and Fernando Díaz Infante",
+          "url": "https://www.worldcat.org/title/quetzalcoatl-in-myth-archeology-and-art/oclc/8171135"
+        },
+        {
+          "title": "The myth of Quetzalcoatl",
+          "author": "Enrique Florescano",
+          "url": "https://www.worldcat.org/title/myth-of-quetzalcoatl/oclc/1110371944"
+        },
+        {
+          "title": "The Myth of Quetzalcoatl: Religion, Rulership, and History in the Nahua World",
+          "author": "Alfredo López Austin",
+          "url": "https://www.worldcat.org/title/myth-of-quetzalcoatl-religion-rulership-and-history-in-the-nahua-world/oclc/898092749"
+        }
+      ],
+      "content": [
+        {
+          "subtitle": "Symbolism",
+          "subcontent": [
+            "K’iche’, Mayan or Toltecs: The feathered serpent figure has been revered for centuries in Mesoamerica. Although he’s a major fertility god for Aztecs, he also birthed a sweeter life for humans by giving them agriculture, science, arts, game, medicine and drugs, and especially love.",
+            "All those gifts remain in Mexican culture, thanks to historical and archeological work, but the most vivacious one remains the <a href=https://indigenousmexico.org/state-of-mexico/the-nahuatl-language-of-mexico-from-aztlan-to-the-present-day/>Náhuatl language</a>. Spoken since the 7th century, today it’s the second most common language in the country, with around 2M speakers, mostly in rural areas."
+          ]
+        },
+        {
+          "subtitle": "Legacy",
+          "subcontent": [
+            "Contemporary Náhuatl is not the same as the original, as it has been Latinized and standardized since the Spanish Conquest, not to mention the fragmentation of Náhuatl into a multitude of local variations, and the urban migration, which weakens its transmission. Local dialects became, in the early 1990s, a strong symbol for the recognition of indigenous rights. And, finally, in 2003, <a href=https://en.wikipedia.org/wiki/Ley_General_de_Derechos_Ling%C3%BC%C3%ADsticos_de_los_Pueblos_Ind%C3%ADgenas>they were recognized as co-official national languages by the government</a>."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Tezcatlipoca",
+      "type": "creation",
+      "name": "Tezcatlipoca",
+      "title": "The trickster",
+      "minibio": "Omnipotent god of rulers, sorcerers or warriors, he rules night, death, discord, conflict, temptation, change and destruction. Symbolized by the jaguar, he's a rival of Quetzalcoatl and one of the most complex Aztec gods.",
+      "sources_group": [
+        {
+          "title": "Nahualism",
+          "author": "Roberto Martinez Gonzalez",
+          "url": "http://www.theses.fr/2005EPHE5011"
+        },
+        {
+          "title": "Tezcatlipoca: trickster and supreme deity",
+          "author": "Elizabeth Baquedano",
+          "url": "https://www.worldcat.org/title/tezcatlipoca-trickster-and-supreme-deity/oclc/1221019941"
+        },
+        {
+          "title": "A Guide to Mexican Witchcraft",
+          "author": "William Madsen, Claudia Madsen Mariana Yampolsky",
+          "url": "https://www.worldcat.org/title/guide-to-mexican-witchcraft/oclc/82372796"
+        },
+        {
+          "title": "Shamanism in Mexico",
+          "author": "William Madsen",
+          "url": "https://www.jstor.org/stable/3628996"
+        },
+        {
+          "title": "Symbolizing Tezcatlipoca",
+          "author": "Nicholas J. Saunders and Elizabeth Baquedano",
+          "url": "https://www.academia.edu/10231958/Symbolizing_Tezcatlipoca"
+        },
+        {
+          "title": "Le nahualli : homme-dieu et double animal au Mexique",
+          "author": "Roberto Martinez Gonzalez",
+          "url": "https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/az2004n1a25.pdf"
+        }
+      ],
+      "content": [
+        {
+          "subtitle": "Symbolism",
+          "subcontent": [
+            "Despite witch hunts during the Spanish Conquest, magic has survived into the present, with brujos/brujas or curanderos/curanderas, especially in the south of Mexico Valley, Tuxtla (Chiapas) or in Catemaco, a village near Vera Cruz, where politicians still come to seek mystical help before elections."
+          ],
+          "id": "Mayahuel",
+          "type": "human",
+          "name": "Mayahuel",
+          "title": "Goddess of pulque",
+          "minibio": "Goddess of the maguay plant and all its by-products, especially pulque. Said to have 400 breasts to nurture her children, she gave love to mankind with her romance with Quetzalcoatl.",
+          "sources_group": [
+            {
+              "title": "The Children of Mayahuel: Agaves, Human Cultures, and Desert Landscapes in Northern Mexico",
+              "author": "Cynthia Radding",
+              "url": "https://www.jstor.org/stable/23212617"
+            },
+            {
+              "title": "Mayáhuel: Mesoamerican deities of the maguey, as depicted in the C​odex Borgia",
+              "author": "Richard Guzman",
+              "url": "https://www.academia.edu/37004866/May%C3%A1huel_Mesoamerican_deitess_of_the_maguey_as_depicted_in_the_C_odex_Borgia"
+            },
+            {
+              "title": "Pulque and the four hundred divine yet helplessly drunken rabbits",
+              "author": "Zoe Saadia",
+              "url": "https://www.zoesaadia.com/tag/mayahuel/"
+            },
+            {
+              "title": "The Story of pulque",
+              "author": "Deborah Toner",
+              "url": "https://staffblogs.le.ac.uk/consumingauthenticities/2015/03/10/the-story-of-pulque-part-1/"
+            }
+          ],
+          "content": [
+            {
+              "subtitle": "Symbolism",
+              "subcontent": [
+                "<a href=https://en.wikipedia.org/wiki/Pulque>Pulque</a> (a mild alcoholic beverage made from maguey) is quite a paradoxical element of Aztec culture. Whereas their pantheon counted hundreds of gods related to it, all children of Mayahuel, it was restricted to very few humans (warriors, sacrificial victims, priests and nobles for celebrations, or older people and pregnant women) and public drunkenness was severely punished."
+              ]
+            },
+            {
+              "subtitle": "Legacy",
+              "subcontent": [
+                "Maguey plantations brought wealth to powerful families in Mexico during the 19th century, but pulque represents only 10% of the alcoholic beverages consumed in Mexico. However, a modern version of it, thanks to the European distillation technique, became very popular worldwide: tequila. Additionally, maguey, with its low water consumption, is actually <a href=https://www.scientificamerican.com/article/does-agave-hold-the-secret-to-drought-resistant-farming/>a point of interest for agronomists</a> and could help to solve some water problems in Mexico."
+              ]
+            }
+          ],
+          "layout": "geometric",
+          "illustration": "​​civilizations-and-ethnic-groups-in-meso-america"
+        }
+      ],
+      "sources_title": "Sources"
+    }
+  ],
+  "sources": [
+    {
+      "group_title": "Autores",
+      "sources_group": [
+        {
+          "title": "Caio Jacintho",
+          "author": "",
+          "url": ""
+        },
+        {
+          "title": "João Carabetta",
+          "author": "",
+          "url": ""
+        },
+        {
+          "title": "Judite Cypreste",
+          "author": "",
+          "url": ""
+        },
+        {
+          "title": "Lucas Tavares",
+          "author": "",
+          "url": ""
+        },
+        {
+          "title": "Pedro Meneghel",
+          "author": "",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "group_title": "Agradecimentos",
+      "sources_group": [
+        {
+          "title": "Rafael Lisboa",
+          "author": "",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "group_title": "Prefeito",
+      "sources_group": [
+        {
+          "title": "Eduardo Paes",
+          "author": "",
+          "url": ""
+        }
+      ]
+    }
+  ],
+  "codices": [
+    "",
+    ""
+  ],
+  "cta_title": "Special mentions",
+  "cta_wip_title": "Work in progress",
+  "cta_wip": [
+    "We have, so far, in our database around 137 gods. And another batch is in the “work in progress” phase, as we still lack information, iconographic resources or simply the time to render them in graphic vector.",
+    "We hope to improve and expand it in the future so, if you’re interested in this project, you can <a href=mailto:uguengwendal@gmail.com>contact me</a> for corrections in written or iconographic resources. Thank you in advance for your help!"
+  ],
+  "cta_mentions_title": "Special mentions",
+  "cta_mentions": [
+    "A special thanks to Sylvie Peperstraete, Fiona Pugliese, Ingrid Bernal, Elizabeth Baquedano, Florian Melki, Patrick Lesbre and Ian Mursell for their help and advice during my research."
+  ],
+  "cta_websites_title": "My favorite websites",
+  "cta_websites": [
+    "<a href=https://www.mexicolore.co.uk/aztecs/>Mexicolore</a>, a wonderful and rich website for the general public about ancient cultures in Mexico.",
+    "<a href=https://www.mayaincaaztec.com/>MayaIncaAztec</a>, an educational website about indigenous societies in America, where I published my first restorations.",
+    "My Corazon Mexica on <a href=https://www.etsy.com/fr/people/j848hx6qcfjnjb14>Etsy</a> and <a href=https://www.facebook.com/MiCorazonMexica/>Facebook</a> for their incredible drawings and costumes  inspired by aztec mythology."
+  ]
+}
