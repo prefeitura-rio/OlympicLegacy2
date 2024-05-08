@@ -1,11 +1,11 @@
 {
   "title": "A Visual Guide to the Aztec Pantheon",
   "introduction": [
-   "Você consegue imaginar o Rio de Janeiro sem os BRTs (Transoeste, Transcarioca e Transolímpica), o VLT, o Centro de Operações (COR), o Porto Maravilha, o Museu do Amanhã e o Museu de Arte do Rio? Pois saiba que, sem os Jogos Olímpicos e Paralímpicos de 2016, nada disso teria se tornado realidade.",
-  "A realização dos Jogos foi fundamental para viabilizar diversos equipamentos urbanos que hoje impactam positivamente a vida dos cariocas, muitos dos quais talvez nunca sairiam do papel sem o impulso proporcionado pelo evento.",
-  "Desde o início do projeto, a Prefeitura do Rio teve como objetivo garantir o máximo de legado para a cidade e seus moradores. A preparação para receber o evento foi utilizada para acelerar mudanças há muito esperadas, que trouxeram melhorias significativas na qualidade de vida dos cariocas.",
-   "As Olimpíadas e Paralimpíadas representaram um marco na história recente da cidade. Além de colocar o Rio sob os holofotes mundiais, os Jogos abriram caminho para transformações importantes na infraestrutura, serviços, transporte e educação.",
-   "Nesta reportagem especial, convidamos você a revisitar ou conhecer o legado olímpico que transformou — e continua transformando — o nosso Rio de Janeiro."
+   "Can you imagine Rio de Janeiro without the BRT, the VLT, the Porto Maravilha, the Museum of Tomorrow, the Rio Art Museum, the Operations Center (COR), the Transoeste, the Transcarioca, and the Transolímpica? Well, without the 2016 Olympic and Paralympic Games, none of this would have become a reality.",
+  "The hosting of the Games was essential to enable various urban facilities that today positively impact the lives of cariocas, many of which might never have materialized without the boost provided by the event.",
+  "From the beginning of the project, the Rio City Hall aimed to ensure a legacy for the city. The preparation to host the event was used to accelerate long-awaited changes, which brought significant improvements in the quality of life for cariocas.",
+   "The Olympics and Paralympics represented a milestone in the city's recent history. Besides putting Rio in the world spotlight, the Games paved the way for significant transformations in infrastructure, services, transportation, and education.",
+   "In this special report, we invite you to revisit or discover the Olympic legacy that has transformed — and continues to transform — our Rio de Janeiro."
   ],
   "introductionone": [
     "Além de planejar e construir equipamentos que garantissem a melhoria da qualidade de vida dos cariocas, o projeto olímpico do Rio adotou a arquitetura nômade em várias arenas, de modo que, passados os Jogos, tivessem novos usos para a população.",
@@ -22,7 +22,7 @@
     "Ao identificar e celebrar os locais que foram transformados ou beneficiados pelos Jogos, estamos fortalecendo o senso de comunidade e pertencimento, ao mesmo tempo em que promovemos o turismo e a conscientização sobre a <b>importância do evento para o nosso presente e futuro.</b>"
    ],
   "introductionfour": [
-    "Explore alguns dos equipamentos e obras feitas em razão dos Jogos Olímpicos e Paralímpicos na cidade do Rio na ferramenta abaixo:"
+    "Explore all the equipment and works done due to the Olympic and Paralympic Games in Rio de Janeiro in the tool below:"
    ],
   "iconography_title": "",
   "iconography_intro": "",
@@ -41,35 +41,35 @@
       "title": "",
       "text": "",
       "background_text": "",
-      "description":"Este é o mapa do Legado Olímpico no Rio de Janeiro. Começaremos nosso passeio pela região central da cidade, berço histórico do Rio. Além de investimentos em conservação, toda essa área passou por um processo de renovação urbana, com a reviltalização do Porto e a recuperação do Centro."
+      "description":"This is the map of the Olympic Legacy in Rio de Janeiro. We will start our tour in the city's central region, where the focus was on conservation combined with a renewal of Downtown Rio."
     },
     {
       "id": "centro_de_operacoes_rio",
       "title": "COR",
       "text": "cor",
       "background_text": "reformas urbanas",
-      "description":"O Centro de Operações Rio (COR) foi o primeiro equipamento olímpico entregue pela Prefeitura do Rio aos cariocas. Inaugurado em dezembro de 2010, seu legado permanece atuante 24 horas por dia, sete dias por semana. Com a integração de 50 órgãos públicos e o uso de mais de 3.500 câmeras, o COR monitora o dia a dia do Rio de Janeiro em áreas essenciais para o funcionamento da cidade, como mobilidade urbana e meteorologia, sempre com o objetivo de antecipar soluções e minimizar o impacto de ocorrências."
+      "description":"The Rio Operations Center (COR) was the first Olympic facility delivered by Rio City Hall to the city. Inaugurated in December 2010, its legacy remains 24 hours a day, seven days a week. The COR monitors and integrates Rio de Janeiro in essential areas: urban mobility and weather."
     },
     {
       "id": "praca_maua",
       "title": "Praça Mauá (Porto Maravilha)",
       "text": "praca_maua",
       "background_text": "reformas urbanas",
-      "description":"Construída no início do século XX, a histórica Praça Mauá foi reinaugurada em setembro de 2015, após ser revitalizada no âmbito do projeto Porto Maravilha. Com áreas verdes, dois novos espaços culturais — MAR e Museu do Amanhã — e sem o Elevado da Perimteral que impedia a vista para a Baía de Guabanara, a praça se consolidou como ponto de encontro e integração social não apenas da cidade, mas de toda a Região Metropolitana. A nova Praça Mauá acabou se tornando um dos principais símbolos do Porto Maravilha, programa de requalificação urbana de uma área de 5 milhões de m2 que foi lançado em 2009, como parte da preparação do Rio para os Jogos de 2016, e segue transformando aquela região."
+      "description":"The square was inaugurated in the early 20th century, being reopened in September 2015 after being revitalized. The revitalization of the square was part of Porto Maravilha, an urban operation that revitalized the Port Zone of Rio de Janeiro, providing leisure, culture, and coexistence for residents and visitors. With green areas, cultural spaces, and events, the square has become a meeting and social integration point, contributing to the quality of life and urban development of the city.In addition to planning and building facilities to ensure the improvement of cariocas' quality of life, the Legacy Plan adopted nomadic architecture in much of its Olympic project.This construction concept involves reusing sports facilities to turn them into other public facilities. The Future Arena, for example, is part of this type of architecture. After the end of the competitions, its structure was used to build four schools in the GET model, which will serve a total of about 1,700 students.Three have already been inaugurated, and another unit will be inaugurated by the end of April in Rio das Pedras. All units are located in the West Zone of the city, where other important facilities were built and are now part of the Olympic legacy."
     },
     {
       "id": "museu_do_amanhã",
-      "title": "Museu do Amanhã",
+      "title": "Museum of Tomorrow",
       "text": "museu_do_amanhã",
       "background_text": "lazer",
-      "description":"Ícone da região portuária da cidade, o Museu do Amanhã também é herança dos Jogos. Inaugurado em 2015, fez parte do projeto de revitalização urbana do Porto Maravilha. Com arquitetura futurista, é um museu de ciências interativo que usa a inovação para trazer reflexões sobre tecnologia, sustentabilidade e futuro."
+      "description":"An icon of the city's port region, the Museum of Tomorrow is also a legacy of the Games. Inaugurated in 2015, it was part of the urban revitalization project of Porto Maravilha. The Museum of Tomorrow is an interactive science museum that uses technology to bring reflections on technology, sustainability, and the future."
     },
     {
       "id": "museu_de_arte_do_rio",
-      "title": "Museu de Arte do Rio",
+      "title": "Rio Art Museum",
       "text": "museu_de_arte_do_rio",
       "background_text": "lazer",
-      "description":"Inaugurado em 2013, o Museu de Arte do Rio (MAR) é uma instituição cultural que preserva e promove a arte e a história da cidade. Vizinho ao Museu do Amanhã na Praça Mauá e também parte do projeto Porto Maravilha, o MAR é mais uma opção cultural que a cidade ganhou por causa dos Jogos e que atrai muitos moradores e turistas ."
+      "description":"Inaugurated in 2013, the Rio Art Museum, MAR, is a cultural institution that preserves and promotes the art and history of the city. Also located in Rio's port region, the museum became another cultural option for the city's residents and tourists after the Games."
     }
   ],
   "iconography_tezca": "Tezcatlipoca",
@@ -81,35 +81,35 @@
       "title": "",
       "text": "",
       "background_text": "",
-      "description":"Agora, vamos para a Zona Oeste da cidade, conhecer os GETs e outras obras que existem graças aos Jogos Olímpicos e Paralímpicos de 2016."
+      "description":"Now, let's go to the West Zone of the city to get to know the GETs and other works that exist thanks to the 2016 Olympic and Paralympic Games."
     },
     {
       "id": "parque_rita_lee",
       "title": "Parque Rita Lee",
       "text": "parque_rita_lee",
       "background_text": "lazer",
-      "description":"Antigo Boulevard Olímpico, que durante os Jogos conectava todas áreas do Parque Olímpico e por onde passaram atletas e torcedores, o Parque Rita Lee é um espaço público de 36 mil metros quadrados, com várias opções de esporte e lazer para a população.  É composto por um bosque com mais de 900 árvores e 16 mil arbustos, quadras esportivas, praças, skate park,  brinquedos infantis e aparelhos de ginástica. O novo parque, que homenageia a rainha do rock brasileiro, fica numa rota que interliga todo o Parque Olímpico, como as arenas, os terraços e o “Live Site”, esplanada destinada a eventos em frente à Lagoa de Jacarepaguá."
+      "description":"Former Olympic Boulevard, Rita Lee Park is an Olympic legacy that has become an important sports and leisure center for the residents of Rio de Janeiro. With modern and varied facilities, the park offers opportunities for sports practice, cultural events, and entertainment for cariocas."
     },
     {
       "id": "GEO_isabel_salgado",
       "title": "GEO Isabel Salgado",
       "text": "GEO_isabel_salgado",
       "background_text": "educação",
-      "description":"O Rio de Janeiro entrou para história ao transformar pela primeira vez um estádio olímpico em escola pública. Localizada no Parque Olímpico, na Barra da Tijuca, a Arena Carioca 3 - que, em 2016, recebeu as competições de taekwondo e esgrima durante os Jogos Olímpicos e judô nos Paralímpicos - virou o maior colégio da rede municipal. O GEO (Ginásio Educacional Olímpico) Isabel Salgado foi batizado em homenagem a um dos maiores nomes do vôlei mundial e atleta olímpica. A escola atende cerca de mil alunos, do primeiro ao nono ano, em tempo integral, e é formada por 24 salas de aulas, sala multiuso, sala de apoio pedagógico, refeitório, cozinha, vestiários e banheiros. Além, claro, das instalações esportivas, com duas quadras e locais para a prática de judô, lutas, tênis de mesa e ginástica."
+      "description":"The GEO Isabel Salgado was named in honor of one of the greatest names in world volleyball and an Olympic athlete. The school will serve about a thousand students, from first to ninth grade, on a full-time basis, and consists of 24 classrooms, a multipurpose room, a pedagogical support room, a cafeteria, a kitchen, changing rooms, and bathrooms. Besides, of course, sports facilities, with two courts and places for judo, martial arts, table tennis, and gymnastics."
     },
     {
       "id": "GET_emiliano_galdino",
       "title": "GETs",
       "text": "GET_emiliano_galdino",
       "background_text": "educação",
-      "description":"O GET é o modelo de escola mais inovador do país, baseado no método STEAM (sigla em inglês para Ciência, Tecnologia, Engenharia, Artes e Matemática), que integra diferentes áreas do conhecimento, estimulando a criatividade, o pensamento crítico e a sensibilidade humana. Tudo isso em tempo integral. Entre os mais de 100 GETs que a Prefeitura do Rio já inaugurou, quatro deles são legados olímpicos. Um dos itens do Plano de Legado feito para os Jogos Rio 2016 previu justamente que a Arena do Futuro, ao término das competições, fosse desmontada e transformada em quatro escolas, com capacidade para 1.700 alunos.  <br><br> Todas as quatro unidades estão localizadas em bairros da Zona Oeste: GET Emiliano Galdino em Santa Cruz, GET José Mauro de Vasconcelos em Bangu, GET Nelcy Noronha em Campo Grande, e GET Mestre Diego Braga em Rio das Pedras."
+      "description":"The GET José Mauro de Vasconcelos, in Bangu, and the GET Emiliano Galdino, in Santa Cruz, can serve about 900 students from Elementary School in the most innovative public school model in the country, following the STEAM approach (Science, Technology, Engineering, Arts, and Mathematics) and investing in the qualification of integral education, with activities from 8 am to 2:30 pm."
     },
     {
       "id": "parque",
       "title": "Parque Radical de Deodoro",
       "text": "parque",
       "background_text": "lazer",
-      "description":"O Parque Radical de Deodoro — que fica localizado numa das áreas mais carentes da Zona Oeste, na divisa com a Baixada Fluminense — oferece atividades para os moradores da região. É a segunda maior área de lazer do Rio de Janeiro e tem várias opções para quem quer praticar esportes ou simplesmente curtir um dia de sol na piscina. Parte do antigo Complexo Esportivo de Deodoro, onde aconteceram competições de diferentes modalidades em 2016, inclusive as provas de Canoagem Slalom, é mais um equipamento que só existe graças à realização dos Jogos Olímipicos e Paralímpicos do Rio!"
+      "description":"Deodoro Radical Park is located in the North Zone of the city and offers activities for residents of the region. It is the second-largest leisure area in Rio de Janeiro and has several options for those who want to practice sports or simply enjoy a day in the sun by the pool. Another facility that only exists thanks to the 2016 Games!In addition to the aforementioned facilities, many other projects were carried out without a direct relationship with the Olympic Games. They were infrastructure works, mainly in mobility and urbanization, which were made viable or accelerated due to Rio becoming the host city of the Games.One of the most significant transformations resulting from these infrastructure works is mobility. Rio City Hall's efforts aimed to create a new model of road network in which the city was completely interconnected, facilitating and speeding up displacements and breaking old geographical and social boundaries.For this, investments were made in projects such as Terminal Gentileza, VLT, BRT, Transoeste, Transcarioca, and Transolímpica, which improved the city's transportation and opened up new opportunities for leisure, culture, and education for thousands of cariocas.Next, you will learn more about the Olympic Legacy projects that have enhanced how cariocas move around Rio."
     }
   ],
   "tezca2-steps": [
@@ -122,45 +122,45 @@
     },
     {
       "id": "sistema_brt",
-      "title": "sistema brt",
+      "title": "BRT",
       "text": "sistema_brt",
       "background_text": "transporte",
-      "description":"Um dos projetos mais importantes e transformadores para a mobilidade na cidade, o Sistema BRT ( Bus Rapid Transit) começou a ser construído e implantado para os Jogos Rio 2016. Com corredores exclusivos e modernos ônibus articulados, proporcionou deslocamentos mais rápidos e eficientes para os cariocas, integrando as áreas mais afastadas e melhorando a qualidade de vida dos usuários, principalmente da população das zonas Norte e Oeste. Atualmente, o Rio conta com quatro corredores de BRT que somam 150 km: Transoeste (inaugurada em 2012), Transcarioca (2014), Transolímpica (2016) e Transbrasil (2024)."
+      "description":"An important project in the city's mobility, the BRT System was built for the Rio 2016 Games. With exclusive corridors and modern buses, it provided faster and more efficient travel for cariocas, reducing traffic jams and improving the quality of life for users. Currently, three exclusive bus corridors operate at full capacity with a completely renewed fleet: Transoeste, Transolímpica, and Transcarioca."
     },
     {
       "id": "transoeste",
       "title": "transoeste",
       "text": "transoeste",
       "background_text": "transporte",
-      "description":"O primeiro BRT a ser entregue como um legado antecipado dos Jogos no Rio foi a Transoeste, em 2012, ligando a Barra da Tijuca a Campo Grande, Paciência e Santa Cruz. O corredor conta como o Túnel da Grota Funda, que foi o primeiro na cidade a cortar o Maciço da Pedra Branca, contribuindo para o fim do isolamento viário da Zona Oeste. A Transoeste proporcionou viagens mais rápidas e confortáveis para os cariocas dessa região, promovendo a integração urbana e facilitando o acesso a serviços e empregos."
+      "description":"Transoeste is an expressway that improved connectivity between the West Zone and other neighborhoods in Rio de Janeiro. With exclusive lanes for buses and BRT, it provided faster and more comfortable trips for cariocas, promoting urban integration and facilitating access to services and jobs."
     },
     {
       "id": "transcarioca",
       "title": "transcarioca",
       "text": "transcarioca",
       "background_text": "transporte",
-      "description":"Inaugurada em junho de 2014, antes do início da Copa do Mundo, a Transcarioca foi o segundo corredor de BRT a entrar em operação no Rio. Liga a Barra da Tijuca ao Aeroporto Tom Jobim, na Ilha do Governador, cruzando o adensado subúrbio carioca. O corredor passa por 27 bairros das zonas Norte e Oeste, incluindo quatro dos maiores conjuntos de favelas do Rio: Cidade de Deus e os Complexos do Alemão, da Penha e da Maré. A Transcarioca facilitou os deslocamentos dos moradores na região, encurtando distâncias e reduzindo o tempo de viagem. Além disso, estimulou o desenvolvimento econômico e social ao longo de seu trajeto."
+      "description":"Transcarioca is an important expressway that connects Barra da Tijuca to the North Zone of the city. With exclusive lanes for buses and BRT, it facilitated the movements of residents, reducing travel times and traffic jams, as well as stimulating economic and social development along its route."
     },
     {
       "id": "transolimpica",
       "title": "transolímpica",
       "text": "transolimpica",
       "background_text": "transporte",
-      "description":"Principal ligação entre o Parque Olímpico da Barra e o Complexo Esportivo de Deodoro durante os Jogos de 2016, a Transolímpica foi o terceiro corredor de BRT a ser inaugurado. Ao concetar o Recreio dos Bandeirantes e a Barra da Tijuca a Deodoro, proporcionou à população a interligação de bairros da Zona Oeste até a Avenida Brasil. Além das pistas exclusivas para os ônibus articulados, o projeto também criou via expressa para automóveis e abriu novos caminhos no Maciço da Pedra Branca, com a construção de dois túneis duplos."
+      "description":"Transolímpica is an expressway that connects Barra da Tijuca to the rest of the West Zone of Rio de Janeiro. Besides facilitating access to the competition venues during the Olympic Games, Transolímpica left an important legacy for the city, improving urban mobility and stimulating the economic development of the region.In the next phase of Rio de Janeiro City Hall's ongoing commitment to preserving and remembering the Olympic legacy, totems, plaques, and stamps will be installed in various spaces and buildings in the city.By identifying and celebrating the places that were transformed or benefited by the Games, we are strengthening the sense of community and belonging, while promoting tourism and raising awareness about the event's importance for our present and future."
     },
     {
       "id": "sistema_vlt",
       "title": "sistema vlt",
       "text": "sistema_vlt",
       "background_text": "transporte",
-      "description":"Na área de mobilidade, a região central do Rio ganhou, às vésperas dos Jogos Rio 2016, o Veículo Leve sobre Trilhos (VLT). O sistema de bondes elétricos se integra a todos os meios de transporte do Centro e da Zona Portuária: barcas, metrô, trem, ônibus, Rodoviária Novo Rio, Aeroporto Santos Dumont, teleférico da Providência, terminal de cruzeiros marítimos e, mais recentemento, o Terminal Gentileza e o BRT Transbrasil. Atualmente, existem quatro linhas de VLT em operação, que somam 29 paradas e estações."
+      "description":"In the mobility area, the Center gained, in June 2016, the Light Rail Vehicle (VLT). It integrates all means of transport in the Center and the Port Region: ferries, subway, train, bus, bus station, airport, cable car, cruise terminal, and, in the future, the BRT Transbrasil. Currently, the VLT is being expanded to the Gentileza Intermodal Terminal."
     },
     {
       "id": "terminal_gentileza",
-      "title": "Terminal Intermodal Gentileza",
+      "title": "Gentileza Terminal",
       "text": "terminal_intermodal_gentileza",
       "background_text": "transporte",
-      "description": "Inaugurado em 2024, oito anos depois dos Jogos, o Terminal Intermodal Gentileza (TIG), o mais moderno hub de integração de transportes do país, é também um legado olímpico. Dentro do conceito da arquitetura nômade, ele foi construído a partir das estruturas metálicas do IBC, o Centro Internacional de Transmissão que ficava no Parque Olímpico e foi responsável por gerar e distribuir as imagens dos Jogos para todo o mundo. Localizado em frente à Rodoviária Novo Rio, o TIG conecta os serviços do BRT Transbrasil,  duas linhas do VLT e  14 linhas de ônibus municipais regulares, além de um serviço expresso para o Aeroporto Internacional Tom Jobim. O Terminal Gentileza integra, portanto, alguns modais que fazem parte do novo sistema de transporte da cidade que começou a ser implementado por causa dos Olimpíadas, como o BRT e o VLT. Além disso, está localizado na região do Porto Maravilha, mais um símbolo de transformação dos Jogos Rio 2016."
+      "description": "Gentileza Terminal was designed as the arrival point in Rio for the BRT Transbrasil, with a minimum estimated demand of 150,000 people transported daily. At the location, passengers can take feeder buses to various regions of the city, as well as the VLT — which was extended by about 700 meters from Rodoviária Novo Rio — to circulate in Downtown Rio and reach Central do Brasil, Praça XV, and Santos Dumont and Galeão Airports. Inaugurated in February this year, it is also a product of the Olympic legacy, as about 700 tons of steel structures from the International Broadcasting Center (IBC) were used in its construction."
     }
   ],
   "pantheon": [
@@ -169,7 +169,7 @@
       "title": "",
       "type": "explanatory-mode",
       "layout": "allLinks",
-      "selected": "Sistema BRT",
+      "selected": "BRT",
       "keyword": "educacao",
       "text": "<em>Death</em> groups all the gods related to destructive forces, whether they come from nature or humankind, like the underworld, war or natural disasters."
     },

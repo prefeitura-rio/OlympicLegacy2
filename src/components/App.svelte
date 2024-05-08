@@ -30,12 +30,12 @@
     </div>
     <div class="cover-image cover-image-2">
       <img src="assets/capa_imgs/capa_2.png" alt="Image 2" />
-      <div class="cover-text cover-text-2">Rio de Janeiro be</div>
+      <div class="cover-text cover-text-2">Rio be without</div>
       <div class="cover-text cover-text-2-mobile">What would <br>Rio de Janeiro be<br> without the Olympics??</div>
     </div>
     <div class="cover-image cover-image-3">
       <img src="assets/capa_imgs/capa_3.png" alt="Image 3" />
-      <div class="cover-text cover-text-3">without the Olympics?</div>
+      <div class="cover-text cover-text-3"> the Olympics?</div>
     </div>
   </div>
   <div class="arrowDown">
@@ -44,12 +44,12 @@
 
   <div class="credits">
     <div class="credits-line">
-      <div>Produzido pelo</div>
-      <div><a href="https://www.dados.rio/">Escritório de Dados</a></div>
+      <div>Produced by</div>
+      <div><a href="https://www.dados.rio/">Data Office</a></div>
     </div>
     <div class="credits-line">
-      <div>da</div>
-      <div><a href="https://prefeitura.rio/">Prefeitura da Cidade do Rio de Janeiro</a></div>
+      <div>from</div>
+      <div><a href="https://prefeitura.rio/">Rio de Janeiro City Hall</a></div>
     </div>
   </div>
   <Section>

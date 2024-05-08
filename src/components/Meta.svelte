@@ -1,8 +1,8 @@
 <script>
-	export let title = "Legado Olímpico";
-	export let description = "O que seria do Rio sem as Olimpíadas?";
+	export let title = "Olympic Legacy";
+	export let description = "What would Rio be without the Olympics?";
 	export let url = "https://prefeitura-rio.github.io/OlympicLegacy2/";
-	export let keywords = "Legado olímpico";
+	export let keywords = "Olympic Legacy";
 	export let preloadFont = [];
 </script>
 
