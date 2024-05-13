@@ -229,18 +229,18 @@
               {#if step.background_text === "transporte"}
                 <div class="step-background transporte">
                   <span class="part1">TRANS</span>
-                  <span class="part2">PORTE</span>
+                  <span class="part2">PORT</span>
                 </div>
-              {:else if step.background_text === "educação"}
+              {:else if step.background_text === "education"}
                 <div class="step-background educacao">
                   <span class="part1">EDUCA</span>
-                  <span class="part2">ÇÃO</span>
+                  <span class="part2">TION</span>
                 </div>
               {:else}
                 <div
                   class="step-background"
                   class:transporte={step.background_text === "transporte"}
-                  class:reformasurbanas={step.background_text === "reformas urbanas"}
+                  class:reformasurbanas={step.background_text === "urban reforms"}
                 >
                   {@html step.background_text}
                 </div>

@@ -14,7 +14,7 @@
     bind:selectedItem
     items={nodes}
     labelFieldName="name"
-    placeholder="Procure uma realização..."
+    placeholder="Look for a project..."
     hideArrow
     showClear
     onChange={() => selection.highlight(selectedItem)}
