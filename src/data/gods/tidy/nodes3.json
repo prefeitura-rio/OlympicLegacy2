@@ -56,28 +56,10 @@
     "selos": 0,
     "placas": 0
   },
-  {
-    "x": 0.7777777775741259,
-    "y": -0.5000000005245443,
-    "id": "boulevard_olímpico",
-    "name": "Olympic Boulevard",
-    "importance": "secondary",
-    "field": "urban reforms",
-    "bio": "The Olympic Boulevard has become a symbol of the Olympic Games legacy, revitalizing Rio de Janeiro's port area. With public spaces, leisure areas, and cultural attractions, the boulevard provided new options for socializing and entertainment for Rio residents, as well as stimulating tourism and economic development in the region.",
-    "spellings": null,
-    "source": "Codex Aubin",
-    "aspect": "Coatlicue, Tlaltecuhtli",
-    "SANITATION": 0,
-    "transport": 0,
-    "urban reforms": 0,
-    "leisure": 1,
-    "totens": 0,
-    "selos": 0,
-    "placas": 0
-  },
+ 
   {
     "x": -1.2222222223181616,
-    "y": -1.5000000005509502,
+    "y": -0.5000000005245443,
     "id": "pequena_áfrica",
     "name": "Little África",
     "importance": "secondary",
@@ -115,12 +97,12 @@
   },
   {
     "x": -2.222222222115711,
-    "y": -1.5000000005509502,
+    "y": -0.5000000005245443,
     "id": "campo_de_golfe",
     "name": "Golf Course",
     "importance": "secondary",
     "field": "Turismo, esporte e leisure",
-    "bio": "O Campo de Golfe é uma importante infraestrutura esportiva que promove a prática do golfe e estimula o turismo esportivo no Rio de Janeiro. Além de sediar competições de nível internacional, o campo contribui para a promoção da saúde e do bem-estar dos moradores, proporcionando um espaço de leisure e convivência na cidade.\n",
+    "bio": "The Golf Course is an important sports infrastructure that promotes the practice of golf and stimulates sports tourism in Rio de Janeiro. In addition to hosting international level competitions, the field contributes to the promotion of health and well-being of the residents, providing a space for leisure and coexistence in the city.\n",
     "spellings": "Chimalman, Chimamatl",
     "source": "Codex Laud",
     "aspect": "Coatlicue",
@@ -171,7 +153,7 @@
     "placas": 0
   },
   {
-    "x": 1.777777777602688,
+    "x": 0.77777777796385,
     "y": -0.5000000005245443,
     "id": "entorno_do_engenhão",
     "name": "Train Plaza",
@@ -227,44 +209,8 @@
     "selos": 0,
     "placas": 0
   },
-  {
-    "x": -2.222222222115711,
-    "y": -0.5000000005221991,
-    "id": "aterro_gramacho",
-    "name": "Closure Of The Gramacho Landfill",
-    "importance": "secondary",
-    "field": "Turismo, esporte e leisure",
-    "bio": "A long-standing promise, the closure of the Gramacho Landfill is also an Olympic legacy. With the implementation of the Waste Treatment Center in Seropédica, the Gramacho Sanitary Landfill was closed after 36 years of operation (10 years beyond its lifespan). The closure ended a history of years of environmental degradation on the shores of Guanabara Bay.",
-    "spellings": "Citlalinicue, Citlalmina",
-    "source": "Codex Borbonicus",
-    "aspect": "Omecihuatl, Ometeotl ",
-    "SANITATION": 1,
-    "transport": 0,
-    "urban reforms": 0,
-    "leisure": 0,
-    "totens": 0,
-    "selos": 1,
-    "placas": 0
-  },
-  {
-    "x": -1.2222222221610526,
-    "y": -0.5000000010626732,
-    "id": "bacia_jacarepagua",
-    "name": "Jacarepagua Basin Recovery",
-    "importance": "secondary",
-    "field": "Turismo, esporte e leisure",
-    "bio": "The works of the Environmental Recovery Program of the Jacarepaguá Basin, which supplies the lagoons throughout the Barra da Tijuca region, benefited around 350,000 residents of the region's neighborhoods who had suffered for many years from flooding caused by river overflow. Surrounding the lagoons are the main facilities of the Rio 2016 Olympics, such as the Olympic Park, the Olympic Village, and the Athletes' Park. The investment of R$ 340 million from the City Hall and the Federal Government in the macro-drainage of the Jacarepaguá Basin was part of the legacy of the Rio 2016 Olympics.",
-    "spellings": "Citlalinicue, Citlalmina",
-    "source": "Codex Borbonicus",
-    "aspect": "Omecihuatl, Ometeotl ",
-    "SANITATION": 1,
-    "transport": 0,
-    "urban reforms": 0,
-    "leisure": 0,
-    "totens": 0,
-    "selos": 1,
-    "placas": 0
-  },
+
+  
   {
     "x": 0.777777777374695,
     "y": 1.4999999989399166,
