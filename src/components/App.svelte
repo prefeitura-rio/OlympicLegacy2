@@ -31,11 +31,11 @@
     <div class="cover-image cover-image-2">
       <img src="assets/capa_imgs/capa_2.png" alt="Image 2" />
       <div class="cover-text cover-text-2">Rio de Janeiro </div>
-      <div class="cover-text cover-text-2-mobile">What would <br>Rio de Janeiro be<br> with no Olympics?</div>
+      <div class="cover-text cover-text-2-mobile">What would <br>Rio de Janeiro be<br> without the Olympics?</div>
     </div>
     <div class="cover-image cover-image-3">
       <img src="assets/capa_imgs/capa_3.png" alt="Image 3" />
-      <div class="cover-text cover-text-3">be with<br> no Olympics?</div>
+      <div class="cover-text cover-text-3">be without<br> the Olympics?</div>
     </div>
   </div>
   <div class="arrowDown">
